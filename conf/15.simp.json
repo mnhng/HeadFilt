@@ -1,0 +1,14 @@
+{
+    "train": [
+        {"input": "data/wang/csc1x_train.in",
+         "correction": "data/wang/csc1x_train.cor"},
+        {"input": "data/wang/csc15_train.in",
+         "correction": "data/wang/csc15_train.cor"}
+    ],
+    "test": {
+        "input": "data/wang/csc15_test_werror.in",
+        "tag": "data/wang/csc15_test_werror.tag",
+        "ref": "data/wang/csc15_test_werror.ref"
+    },
+    "simplified": true
+}

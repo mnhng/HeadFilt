@@ -1,0 +1,17 @@
+{
+    "train": [
+        {"input": "data/csc2015_train.in",
+         "correction": "data/csc2015_train.cor"}
+    ],
+    "valid": {
+        "input": "data/csc2015_valid_correction.in",
+        "tag": "data/csc2015_valid_correction.tag",
+        "ref": "data/csc2015_valid_correction.ref"
+    },
+    "test": {
+        "input": "data/csc2015_test_correction.in",
+        "tag": "data/csc2015_test_correction.tag",
+        "ref": "data/csc2015_test_correction.ref"
+    },
+    "simplified": false
+}

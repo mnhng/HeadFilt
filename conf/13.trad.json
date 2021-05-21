@@ -1,0 +1,32 @@
+{
+    "train": [
+        {"input": "data/csc2013_train.in",
+         "correction": "data/csc2013_train.cor"}
+    ],
+    "valid": [
+        {
+            "input": "data/csc2013_valid_prediction.in",
+            "tag": "data/csc2013_valid_prediction.tag",
+            "ref": "data/csc2013_valid_prediction.ref"
+        },
+        {
+            "input": "data/csc2013_valid_correction.in",
+            "tag": "data/csc2013_valid_correction.tag",
+            "ref": "data/csc2013_valid_correction.ref"
+        }
+    ],
+    "test": [
+        {
+            "input": "data/csc2013_test_prediction.in",
+            "tag": "data/csc2013_test_prediction.tag",
+            "ref": "data/csc2013_test_prediction.ref"
+        },
+        {
+            "input": "data/csc2013_test_correction.in",
+            "tag": "data/csc2013_test_correction.tag",
+            "ref": "data/csc2013_test_correction.ref"
+        }
+    ],
+    "simplified": false,
+    "sep_pred_corr": true
+}
