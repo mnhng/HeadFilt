@@ -2,13 +2,13 @@
     "train": [
         {"input": "data/wang/csc1x_train.in",
          "correction": "data/wang/csc1x_train.cor"},
-        {"input": "data/wang/csc14_train.in",
-         "correction": "data/wang/csc14_train.cor"}
+        {"input": "data/wang/wang2018.in",
+         "correction": "data/wang/wang2018.cor"}
     ],
     "test": {
-        "input": "data/wang/csc14_test_werror.in",
-        "tag": "data/wang/csc14_test_werror.tag",
-        "ref": "data/wang/csc14_test_werror.ref"
+        "input": "data/wang/csc14_test.in",
+        "tag": "data/wang/csc14_test.tag",
+        "ref": "data/wang/csc14_test.ref"
     },
     "simplified": true
 }

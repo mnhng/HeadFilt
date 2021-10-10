@@ -6,9 +6,9 @@
          "correction": "data/wang/wang2018.cor"}
     ],
     "test": {
-        "input": "data/wang/csc13_test_werror.in",
-        "tag": "data/wang/csc13_test_werror.tag",
-        "ref": "data/wang/csc13_test_werror.ref"
+        "input": "data/wang/csc13_test.in",
+        "tag": "data/wang/csc13_test.tag",
+        "ref": "data/wang/csc13_test.ref"
     },
     "simplified": true
 }
